@@ -152,9 +152,9 @@ Seamless communication between railway and payment systems:
 
 ---
 
-## 🛡️ Security Features
+## 🛡️ Security Features(Basics)
 
-- **SQL Injection Prevention**: Comprehensive input sanitization
+- **SQL Injection Prevention**: Input sanitization
 - **CSRF Protection**: Token-based form validation
 - **Session Management**: Secure authentication system
 - **Role-Based Access**: Granular permission controls
@@ -164,7 +164,7 @@ Seamless communication between railway and payment systems:
 
 ## 🎓 Educational Context
 
-This project was developed as part of a **Database Systems course**, demonstrating:
+This project was developed as part of a **Database Systems course**.
 
 ### **Key Learning Objectives**
 ✅ Complex database schema design with real-world constraints  
