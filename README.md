@@ -97,13 +97,9 @@ The railway booking system communicates with the payment gateway through secure 
 
 ## 🎮 Demo Accounts
 
-Try the system with these demo accounts:
+Try the system with these demo accounts available as buttons in the login UI
 
-| Role | Username | Password | Access Level |
-|------|----------|----------|--------------|
-| **Passenger** | `demo_user` | `demo123` | Booking & Reservations |
-| **Operations** | `demo_ops` | `ops123` | Fleet & Scheduling |
-| **Admin** | `demo_admin` | `admin123` | Full System Access |
+
 
 ---
 
