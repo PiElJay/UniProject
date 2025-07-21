@@ -28,7 +28,7 @@ Managing a **54km single-track railway line** where trains must coordinate movem
 - **Interactive Maps**: Visual station selection and route planning
 - **Responsive Design**: Mobile-first approach with Bootstrap 5
 
-### 💳 **PaySteam Gateway** (`/Prova2/`)
+### 💳 **PS Gateway** (`/Prova2/`)
 - **Secure Payment Processing**: RESTful API for transaction handling
 - **Merchant Dashboard**: Analytics and transaction management
 - **Balance Management**: Real-time account updates via AJAX calls
